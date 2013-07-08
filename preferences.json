@@ -1,0 +1,121 @@
+{
+    "id": "100000591379521",   
+    "sizes": 
+        {
+            "shirts": [
+                {
+                    "selected": "Y",
+                    "url": "shirts_s.png",
+                    "shirt": "s"
+                },
+                {
+                    "selected": "N",
+                    "url": "shirts_m.png",
+                    "shirt": "m"
+                }
+            ],
+            "pants": [
+                {
+                    "pant": "s",
+                    "selected": "Y",
+                    "url": "pants1.png"
+                },
+                {
+                    "pant": "m",
+                    "selected": "N",
+                    "url": "pants2.png"
+                }
+            ],
+            "shoes": [
+                {
+                    "shoes": "8",
+                    "selected": "N",
+                    "url": "shoes1.png"
+                },
+                {
+                    "shoes": "7",
+                    "selected": "Y",
+                    "url": "shoes2.png"
+                }
+            ]
+        }
+    ,
+    "colors": [
+        {
+            "selected": "Y",
+            "color": "skyblue",
+            "url": "color_blues.jpg"
+        },
+        {
+            "selected": "Y",
+            "color": "purple",
+            "url": "color_greens.jpg"
+        }
+    ],
+    "prints": [
+        {
+            "selected": "Y",
+            "print": "flowery",
+            "url": "flowery.jpg"
+        },
+        {
+            "selected": "Y",
+            "print": "floral",
+            "url": "floral.jpg"
+        }
+    ],
+    "luxuryBrands": [
+        {
+            "selected": "Y",
+            "luxbrand": "Armani",
+            "url": "luxurybrands.jpg"
+        },
+        {
+            "selected": "N",
+            "luxbrand": "Gucci",
+            "url": "luxurybrands1.jpg"
+        }
+    ],
+    "hiStreetBrands": [
+        {
+            "selected": "Y",
+            "hibrand": "Jimmy Choo",
+            "url": "highstreet.jpg"
+        },
+        {
+            "selected": "N",
+            "hibrand": "Chetlham",
+            "url": "highstreet1.jpg"
+        }
+    ],
+    "fastFashionBrands": [
+        {
+            "selected": "Y",
+            "fastfash": "Foreever 21",
+            "url": "fastfashion.jpg"
+        },
+        {
+            "selected": "N",
+            "fastfash": "ZARA",
+            "url": "fastfashion1.jpg"
+        }
+    ],
+    "indieDesigners": [
+        {
+            "selected": "Y",
+            "indie": "sonas jeans",
+            "url": "indidesigner1.jpg"
+        },
+        {
+            "selected": "N",
+            "indie": "sonas denim",
+            "url": "indidesigner.jpg"
+        }
+    ],
+    "bloggerPreferences": [
+        {
+            "selected": "Y",
+            "url": "http://www.thesfstyle.com/2013/05/tribal-print-knitwear-doc-martens.html"
+        }
+    ]
+}

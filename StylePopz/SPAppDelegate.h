@@ -7,9 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "definitions.h"
 
 @interface SPAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+
+- (void) changeViewControllerTo: (SPChangeViewControllerTo) changeViewControllerInfo;
 
 @end
