@@ -8,6 +8,64 @@
 
 /* Begin PBXBuildFile section */
 		B03715D21787899100C7ABB6 /* preferences.json in Resources */ = {isa = PBXBuildFile; fileRef = B03715D11787899100C7ABB6 /* preferences.json */; };
+		B0475EC1178B7A4C00D0C606 /* bodymedia.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E83178B7A4C00D0C606 /* bodymedia.png */; };
+		B0475EC2178B7A4C00D0C606 /* calvintage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E84178B7A4C00D0C606 /* calvintage.jpg */; };
+		B0475EC3178B7A4C00D0C606 /* checkbox.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E85178B7A4C00D0C606 /* checkbox.png */; };
+		B0475EC4178B7A4C00D0C606 /* color_blues.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E87178B7A4C00D0C606 /* color_blues.jpg */; };
+		B0475EC5178B7A4C00D0C606 /* color_greens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E88178B7A4C00D0C606 /* color_greens.jpg */; };
+		B0475EC6178B7A4C00D0C606 /* dropbox.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E89178B7A4C00D0C606 /* dropbox.png */; };
+		B0475EC7178B7A4C00D0C606 /* email.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E8A178B7A4C00D0C606 /* email.png */; };
+		B0475EC8178B7A4C00D0C606 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E8B178B7A4C00D0C606 /* facebook.png */; };
+		B0475EC9178B7A4C00D0C606 /* female.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E8C178B7A4C00D0C606 /* female.png */; };
+		B0475ECA178B7A4C00D0C606 /* fitbit.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E8D178B7A4C00D0C606 /* fitbit.png */; };
+		B0475ECB178B7A4C00D0C606 /* flickr.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E8E178B7A4C00D0C606 /* flickr.png */; };
+		B0475ECC178B7A4C00D0C606 /* floral.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E8F178B7A4C00D0C606 /* floral.jpg */; };
+		B0475ECD178B7A4C00D0C606 /* flowery.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E90178B7A4C00D0C606 /* flowery.jpg */; };
+		B0475ECE178B7A4C00D0C606 /* foursquare.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E91178B7A4C00D0C606 /* foursquare.png */; };
+		B0475ECF178B7A4C00D0C606 /* github.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E92178B7A4C00D0C606 /* github.png */; };
+		B0475ED0178B7A4C00D0C606 /* gmail.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E93178B7A4C00D0C606 /* gmail.png */; };
+		B0475ED1178B7A4C00D0C606 /* instagram.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E94178B7A4C00D0C606 /* instagram.png */; };
+		B0475ED2178B7A4C00D0C606 /* karinala.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E95178B7A4C00D0C606 /* karinala.jpg */; };
+		B0475ED3178B7A4C00D0C606 /* karinala1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E96178B7A4C00D0C606 /* karinala1.jpg */; };
+		B0475ED4178B7A4C00D0C606 /* linkedin.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475E97178B7A4C00D0C606 /* linkedin.png */; };
+		B0475ED5178B7A4C00D0C606 /* fastfashion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E99178B7A4C00D0C606 /* fastfashion.jpg */; };
+		B0475ED6178B7A4C00D0C606 /* fastfashion1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E9A178B7A4C00D0C606 /* fastfashion1.jpg */; };
+		B0475ED7178B7A4C00D0C606 /* highstreet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E9B178B7A4C00D0C606 /* highstreet.jpg */; };
+		B0475ED8178B7A4C00D0C606 /* highstreet1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E9C178B7A4C00D0C606 /* highstreet1.jpg */; };
+		B0475ED9178B7A4C00D0C606 /* indidesigner.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E9D178B7A4C00D0C606 /* indidesigner.jpg */; };
+		B0475EDA178B7A4C00D0C606 /* indidesigner1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E9E178B7A4C00D0C606 /* indidesigner1.jpg */; };
+		B0475EDB178B7A4C00D0C606 /* luxurybrands.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475E9F178B7A4C00D0C606 /* luxurybrands.jpg */; };
+		B0475EDC178B7A4C00D0C606 /* luxurybrands1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA0178B7A4C00D0C606 /* luxurybrands1.jpg */; };
+		B0475EDD178B7A4C00D0C606 /* male.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA1178B7A4C00D0C606 /* male.png */; };
+		B0475EDE178B7A4C00D0C606 /* minus.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA2178B7A4C00D0C606 /* minus.png */; };
+		B0475EDF178B7A4C00D0C606 /* nav-shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA3178B7A4C00D0C606 /* nav-shadow.png */; };
+		B0475EE0178B7A4C00D0C606 /* print.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA4178B7A4C00D0C606 /* print.jpg */; };
+		B0475EE1178B7A4C00D0C606 /* rose.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA5178B7A4C00D0C606 /* rose.jpg */; };
+		B0475EE2178B7A4C00D0C606 /* runkeeper.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA6178B7A4C00D0C606 /* runkeeper.png */; };
+		B0475EE3178B7A4C00D0C606 /* sfstyle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA7178B7A4C00D0C606 /* sfstyle.jpg */; };
+		B0475EE4178B7A4C00D0C606 /* sfstyle1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA8178B7A4C00D0C606 /* sfstyle1.jpg */; };
+		B0475EE5178B7A4C00D0C606 /* singly-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EA9178B7A4C00D0C606 /* singly-logo.png */; };
+		B0475EE6178B7A4C00D0C606 /* pants1.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EAB178B7A4C00D0C606 /* pants1.png */; };
+		B0475EE7178B7A4C00D0C606 /* pants2.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EAC178B7A4C00D0C606 /* pants2.png */; };
+		B0475EE8178B7A4C00D0C606 /* shirts_m.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EAD178B7A4C00D0C606 /* shirts_m.png */; };
+		B0475EE9178B7A4C00D0C606 /* shirts_s.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EAE178B7A4C00D0C606 /* shirts_s.png */; };
+		B0475EEA178B7A4C00D0C606 /* shoes1.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EAF178B7A4C00D0C606 /* shoes1.png */; };
+		B0475EEB178B7A4C00D0C606 /* shoes2.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EB0178B7A4C00D0C606 /* shoes2.png */; };
+		B0475EEC178B7A4C00D0C606 /* 100px.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EB2178B7A4C00D0C606 /* 100px.png */; };
+		B0475EED178B7A4C00D0C606 /* 200px.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EB3178B7A4C00D0C606 /* 200px.png */; };
+		B0475EEE178B7A4C00D0C606 /* 300px.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EB4178B7A4C00D0C606 /* 300px.png */; };
+		B0475EEF178B7A4C00D0C606 /* 400px.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EB5178B7A4C00D0C606 /* 400px.png */; };
+		B0475EF0178B7A4C00D0C606 /* frontpage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0475EB6178B7A4C00D0C606 /* frontpage.jpg */; };
+		B0475EF1178B7A4C00D0C606 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EB7178B7A4C00D0C606 /* next.png */; };
+		B0475EF2178B7A4C00D0C606 /* oneclickcheckout.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EB8178B7A4C00D0C606 /* oneclickcheckout.png */; };
+		B0475EF3178B7A4C00D0C606 /* prev.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EB9178B7A4C00D0C606 /* prev.png */; };
+		B0475EF4178B7A4C00D0C606 /* wood_pattern.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EBA178B7A4C00D0C606 /* wood_pattern.png */; };
+		B0475EF5178B7A4C00D0C606 /* tumblr.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EBB178B7A4C00D0C606 /* tumblr.png */; };
+		B0475EF6178B7A4C00D0C606 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EBC178B7A4C00D0C606 /* twitter.png */; };
+		B0475EF7178B7A4C00D0C606 /* withings.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EBD178B7A4C00D0C606 /* withings.png */; };
+		B0475EF8178B7A4C00D0C606 /* wordpress.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EBE178B7A4C00D0C606 /* wordpress.png */; };
+		B0475EF9178B7A4C00D0C606 /* yammer.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EBF178B7A4C00D0C606 /* yammer.png */; };
+		B0475EFA178B7A4C00D0C606 /* zeo.png in Resources */ = {isa = PBXBuildFile; fileRef = B0475EC0178B7A4C00D0C606 /* zeo.png */; };
 		B0E3C144178315010035A0AD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0E3C143178315010035A0AD /* UIKit.framework */; };
 		B0E3C146178315010035A0AD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0E3C145178315010035A0AD /* Foundation.framework */; };
 		B0E3C148178315010035A0AD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0E3C147178315010035A0AD /* CoreGraphics.framework */; };
@@ -67,6 +125,64 @@
 
 /* Begin PBXFileReference section */
 		B03715D11787899100C7ABB6 /* preferences.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = preferences.json; sourceTree = "<group>"; };
+		B0475E83178B7A4C00D0C606 /* bodymedia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bodymedia.png; sourceTree = "<group>"; };
+		B0475E84178B7A4C00D0C606 /* calvintage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = calvintage.jpg; sourceTree = "<group>"; };
+		B0475E85178B7A4C00D0C606 /* checkbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkbox.png; sourceTree = "<group>"; };
+		B0475E87178B7A4C00D0C606 /* color_blues.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = color_blues.jpg; sourceTree = "<group>"; };
+		B0475E88178B7A4C00D0C606 /* color_greens.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = color_greens.jpg; sourceTree = "<group>"; };
+		B0475E89178B7A4C00D0C606 /* dropbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dropbox.png; sourceTree = "<group>"; };
+		B0475E8A178B7A4C00D0C606 /* email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = email.png; sourceTree = "<group>"; };
+		B0475E8B178B7A4C00D0C606 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebook.png; sourceTree = "<group>"; };
+		B0475E8C178B7A4C00D0C606 /* female.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = female.png; sourceTree = "<group>"; };
+		B0475E8D178B7A4C00D0C606 /* fitbit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fitbit.png; sourceTree = "<group>"; };
+		B0475E8E178B7A4C00D0C606 /* flickr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flickr.png; sourceTree = "<group>"; };
+		B0475E8F178B7A4C00D0C606 /* floral.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = floral.jpg; sourceTree = "<group>"; };
+		B0475E90178B7A4C00D0C606 /* flowery.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flowery.jpg; sourceTree = "<group>"; };
+		B0475E91178B7A4C00D0C606 /* foursquare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foursquare.png; sourceTree = "<group>"; };
+		B0475E92178B7A4C00D0C606 /* github.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = github.png; sourceTree = "<group>"; };
+		B0475E93178B7A4C00D0C606 /* gmail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gmail.png; sourceTree = "<group>"; };
+		B0475E94178B7A4C00D0C606 /* instagram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instagram.png; sourceTree = "<group>"; };
+		B0475E95178B7A4C00D0C606 /* karinala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = karinala.jpg; sourceTree = "<group>"; };
+		B0475E96178B7A4C00D0C606 /* karinala1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = karinala1.jpg; sourceTree = "<group>"; };
+		B0475E97178B7A4C00D0C606 /* linkedin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = linkedin.png; sourceTree = "<group>"; };
+		B0475E99178B7A4C00D0C606 /* fastfashion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fastfashion.jpg; sourceTree = "<group>"; };
+		B0475E9A178B7A4C00D0C606 /* fastfashion1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fastfashion1.jpg; sourceTree = "<group>"; };
+		B0475E9B178B7A4C00D0C606 /* highstreet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = highstreet.jpg; sourceTree = "<group>"; };
+		B0475E9C178B7A4C00D0C606 /* highstreet1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = highstreet1.jpg; sourceTree = "<group>"; };
+		B0475E9D178B7A4C00D0C606 /* indidesigner.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = indidesigner.jpg; sourceTree = "<group>"; };
+		B0475E9E178B7A4C00D0C606 /* indidesigner1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = indidesigner1.jpg; sourceTree = "<group>"; };
+		B0475E9F178B7A4C00D0C606 /* luxurybrands.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luxurybrands.jpg; sourceTree = "<group>"; };
+		B0475EA0178B7A4C00D0C606 /* luxurybrands1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = luxurybrands1.jpg; sourceTree = "<group>"; };
+		B0475EA1178B7A4C00D0C606 /* male.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = male.png; sourceTree = "<group>"; };
+		B0475EA2178B7A4C00D0C606 /* minus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minus.png; sourceTree = "<group>"; };
+		B0475EA3178B7A4C00D0C606 /* nav-shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nav-shadow.png"; sourceTree = "<group>"; };
+		B0475EA4178B7A4C00D0C606 /* print.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = print.jpg; sourceTree = "<group>"; };
+		B0475EA5178B7A4C00D0C606 /* rose.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rose.jpg; sourceTree = "<group>"; };
+		B0475EA6178B7A4C00D0C606 /* runkeeper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = runkeeper.png; sourceTree = "<group>"; };
+		B0475EA7178B7A4C00D0C606 /* sfstyle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sfstyle.jpg; sourceTree = "<group>"; };
+		B0475EA8178B7A4C00D0C606 /* sfstyle1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sfstyle1.jpg; sourceTree = "<group>"; };
+		B0475EA9178B7A4C00D0C606 /* singly-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "singly-logo.png"; sourceTree = "<group>"; };
+		B0475EAB178B7A4C00D0C606 /* pants1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pants1.png; sourceTree = "<group>"; };
+		B0475EAC178B7A4C00D0C606 /* pants2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pants2.png; sourceTree = "<group>"; };
+		B0475EAD178B7A4C00D0C606 /* shirts_m.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shirts_m.png; sourceTree = "<group>"; };
+		B0475EAE178B7A4C00D0C606 /* shirts_s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shirts_s.png; sourceTree = "<group>"; };
+		B0475EAF178B7A4C00D0C606 /* shoes1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shoes1.png; sourceTree = "<group>"; };
+		B0475EB0178B7A4C00D0C606 /* shoes2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shoes2.png; sourceTree = "<group>"; };
+		B0475EB2178B7A4C00D0C606 /* 100px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 100px.png; sourceTree = "<group>"; };
+		B0475EB3178B7A4C00D0C606 /* 200px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 200px.png; sourceTree = "<group>"; };
+		B0475EB4178B7A4C00D0C606 /* 300px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 300px.png; sourceTree = "<group>"; };
+		B0475EB5178B7A4C00D0C606 /* 400px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 400px.png; sourceTree = "<group>"; };
+		B0475EB6178B7A4C00D0C606 /* frontpage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = frontpage.jpg; sourceTree = "<group>"; };
+		B0475EB7178B7A4C00D0C606 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		B0475EB8178B7A4C00D0C606 /* oneclickcheckout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oneclickcheckout.png; sourceTree = "<group>"; };
+		B0475EB9178B7A4C00D0C606 /* prev.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prev.png; sourceTree = "<group>"; };
+		B0475EBA178B7A4C00D0C606 /* wood_pattern.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wood_pattern.png; sourceTree = "<group>"; };
+		B0475EBB178B7A4C00D0C606 /* tumblr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tumblr.png; sourceTree = "<group>"; };
+		B0475EBC178B7A4C00D0C606 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter.png; sourceTree = "<group>"; };
+		B0475EBD178B7A4C00D0C606 /* withings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = withings.png; sourceTree = "<group>"; };
+		B0475EBE178B7A4C00D0C606 /* wordpress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wordpress.png; sourceTree = "<group>"; };
+		B0475EBF178B7A4C00D0C606 /* yammer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yammer.png; sourceTree = "<group>"; };
+		B0475EC0178B7A4C00D0C606 /* zeo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zeo.png; sourceTree = "<group>"; };
 		B0E3C140178315010035A0AD /* StylePopz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StylePopz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0E3C143178315010035A0AD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B0E3C145178315010035A0AD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -206,6 +322,103 @@
 			name = JSON;
 			sourceTree = "<group>";
 		};
+		B0475E82178B7A4C00D0C606 /* More Images */ = {
+			isa = PBXGroup;
+			children = (
+				B0475E83178B7A4C00D0C606 /* bodymedia.png */,
+				B0475E84178B7A4C00D0C606 /* calvintage.jpg */,
+				B0475E85178B7A4C00D0C606 /* checkbox.png */,
+				B0475E86178B7A4C00D0C606 /* colors */,
+				B0475E89178B7A4C00D0C606 /* dropbox.png */,
+				B0475E8A178B7A4C00D0C606 /* email.png */,
+				B0475E8B178B7A4C00D0C606 /* facebook.png */,
+				B0475E8C178B7A4C00D0C606 /* female.png */,
+				B0475E8D178B7A4C00D0C606 /* fitbit.png */,
+				B0475E8E178B7A4C00D0C606 /* flickr.png */,
+				B0475E8F178B7A4C00D0C606 /* floral.jpg */,
+				B0475E90178B7A4C00D0C606 /* flowery.jpg */,
+				B0475E91178B7A4C00D0C606 /* foursquare.png */,
+				B0475E92178B7A4C00D0C606 /* github.png */,
+				B0475E93178B7A4C00D0C606 /* gmail.png */,
+				B0475E94178B7A4C00D0C606 /* instagram.png */,
+				B0475E95178B7A4C00D0C606 /* karinala.jpg */,
+				B0475E96178B7A4C00D0C606 /* karinala1.jpg */,
+				B0475E97178B7A4C00D0C606 /* linkedin.png */,
+				B0475E98178B7A4C00D0C606 /* luxury */,
+				B0475EA1178B7A4C00D0C606 /* male.png */,
+				B0475EA2178B7A4C00D0C606 /* minus.png */,
+				B0475EA3178B7A4C00D0C606 /* nav-shadow.png */,
+				B0475EA4178B7A4C00D0C606 /* print.jpg */,
+				B0475EA5178B7A4C00D0C606 /* rose.jpg */,
+				B0475EA6178B7A4C00D0C606 /* runkeeper.png */,
+				B0475EA7178B7A4C00D0C606 /* sfstyle.jpg */,
+				B0475EA8178B7A4C00D0C606 /* sfstyle1.jpg */,
+				B0475EA9178B7A4C00D0C606 /* singly-logo.png */,
+				B0475EAA178B7A4C00D0C606 /* sizes */,
+				B0475EB1178B7A4C00D0C606 /* stylepopz */,
+				B0475EBB178B7A4C00D0C606 /* tumblr.png */,
+				B0475EBC178B7A4C00D0C606 /* twitter.png */,
+				B0475EBD178B7A4C00D0C606 /* withings.png */,
+				B0475EBE178B7A4C00D0C606 /* wordpress.png */,
+				B0475EBF178B7A4C00D0C606 /* yammer.png */,
+				B0475EC0178B7A4C00D0C606 /* zeo.png */,
+			);
+			path = "More Images";
+			sourceTree = "<group>";
+		};
+		B0475E86178B7A4C00D0C606 /* colors */ = {
+			isa = PBXGroup;
+			children = (
+				B0475E87178B7A4C00D0C606 /* color_blues.jpg */,
+				B0475E88178B7A4C00D0C606 /* color_greens.jpg */,
+			);
+			path = colors;
+			sourceTree = "<group>";
+		};
+		B0475E98178B7A4C00D0C606 /* luxury */ = {
+			isa = PBXGroup;
+			children = (
+				B0475E99178B7A4C00D0C606 /* fastfashion.jpg */,
+				B0475E9A178B7A4C00D0C606 /* fastfashion1.jpg */,
+				B0475E9B178B7A4C00D0C606 /* highstreet.jpg */,
+				B0475E9C178B7A4C00D0C606 /* highstreet1.jpg */,
+				B0475E9D178B7A4C00D0C606 /* indidesigner.jpg */,
+				B0475E9E178B7A4C00D0C606 /* indidesigner1.jpg */,
+				B0475E9F178B7A4C00D0C606 /* luxurybrands.jpg */,
+				B0475EA0178B7A4C00D0C606 /* luxurybrands1.jpg */,
+			);
+			path = luxury;
+			sourceTree = "<group>";
+		};
+		B0475EAA178B7A4C00D0C606 /* sizes */ = {
+			isa = PBXGroup;
+			children = (
+				B0475EAB178B7A4C00D0C606 /* pants1.png */,
+				B0475EAC178B7A4C00D0C606 /* pants2.png */,
+				B0475EAD178B7A4C00D0C606 /* shirts_m.png */,
+				B0475EAE178B7A4C00D0C606 /* shirts_s.png */,
+				B0475EAF178B7A4C00D0C606 /* shoes1.png */,
+				B0475EB0178B7A4C00D0C606 /* shoes2.png */,
+			);
+			path = sizes;
+			sourceTree = "<group>";
+		};
+		B0475EB1178B7A4C00D0C606 /* stylepopz */ = {
+			isa = PBXGroup;
+			children = (
+				B0475EB2178B7A4C00D0C606 /* 100px.png */,
+				B0475EB3178B7A4C00D0C606 /* 200px.png */,
+				B0475EB4178B7A4C00D0C606 /* 300px.png */,
+				B0475EB5178B7A4C00D0C606 /* 400px.png */,
+				B0475EB6178B7A4C00D0C606 /* frontpage.jpg */,
+				B0475EB7178B7A4C00D0C606 /* next.png */,
+				B0475EB8178B7A4C00D0C606 /* oneclickcheckout.png */,
+				B0475EB9178B7A4C00D0C606 /* prev.png */,
+				B0475EBA178B7A4C00D0C606 /* wood_pattern.png */,
+			);
+			path = stylepopz;
+			sourceTree = "<group>";
+		};
 		B0E3C137178315010035A0AD = {
 			isa = PBXGroup;
 			children = (
@@ -268,6 +481,7 @@
 		B0E3C160178315190035A0AD /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				B0475E82178B7A4C00D0C606 /* More Images */,
 				B03715D4178789A400C7ABB6 /* JSON */,
 				B03715D31787899500C7ABB6 /* Images */,
 			);
@@ -400,6 +614,64 @@
 				B0E3C1BF17831B250035A0AD /* prev.png in Resources */,
 				B0E3C1C017831B250035A0AD /* wood_pattern.png in Resources */,
 				B03715D21787899100C7ABB6 /* preferences.json in Resources */,
+				B0475EC1178B7A4C00D0C606 /* bodymedia.png in Resources */,
+				B0475EC2178B7A4C00D0C606 /* calvintage.jpg in Resources */,
+				B0475EC3178B7A4C00D0C606 /* checkbox.png in Resources */,
+				B0475EC4178B7A4C00D0C606 /* color_blues.jpg in Resources */,
+				B0475EC5178B7A4C00D0C606 /* color_greens.jpg in Resources */,
+				B0475EC6178B7A4C00D0C606 /* dropbox.png in Resources */,
+				B0475EC7178B7A4C00D0C606 /* email.png in Resources */,
+				B0475EC8178B7A4C00D0C606 /* facebook.png in Resources */,
+				B0475EC9178B7A4C00D0C606 /* female.png in Resources */,
+				B0475ECA178B7A4C00D0C606 /* fitbit.png in Resources */,
+				B0475ECB178B7A4C00D0C606 /* flickr.png in Resources */,
+				B0475ECC178B7A4C00D0C606 /* floral.jpg in Resources */,
+				B0475ECD178B7A4C00D0C606 /* flowery.jpg in Resources */,
+				B0475ECE178B7A4C00D0C606 /* foursquare.png in Resources */,
+				B0475ECF178B7A4C00D0C606 /* github.png in Resources */,
+				B0475ED0178B7A4C00D0C606 /* gmail.png in Resources */,
+				B0475ED1178B7A4C00D0C606 /* instagram.png in Resources */,
+				B0475ED2178B7A4C00D0C606 /* karinala.jpg in Resources */,
+				B0475ED3178B7A4C00D0C606 /* karinala1.jpg in Resources */,
+				B0475ED4178B7A4C00D0C606 /* linkedin.png in Resources */,
+				B0475ED5178B7A4C00D0C606 /* fastfashion.jpg in Resources */,
+				B0475ED6178B7A4C00D0C606 /* fastfashion1.jpg in Resources */,
+				B0475ED7178B7A4C00D0C606 /* highstreet.jpg in Resources */,
+				B0475ED8178B7A4C00D0C606 /* highstreet1.jpg in Resources */,
+				B0475ED9178B7A4C00D0C606 /* indidesigner.jpg in Resources */,
+				B0475EDA178B7A4C00D0C606 /* indidesigner1.jpg in Resources */,
+				B0475EDB178B7A4C00D0C606 /* luxurybrands.jpg in Resources */,
+				B0475EDC178B7A4C00D0C606 /* luxurybrands1.jpg in Resources */,
+				B0475EDD178B7A4C00D0C606 /* male.png in Resources */,
+				B0475EDE178B7A4C00D0C606 /* minus.png in Resources */,
+				B0475EDF178B7A4C00D0C606 /* nav-shadow.png in Resources */,
+				B0475EE0178B7A4C00D0C606 /* print.jpg in Resources */,
+				B0475EE1178B7A4C00D0C606 /* rose.jpg in Resources */,
+				B0475EE2178B7A4C00D0C606 /* runkeeper.png in Resources */,
+				B0475EE3178B7A4C00D0C606 /* sfstyle.jpg in Resources */,
+				B0475EE4178B7A4C00D0C606 /* sfstyle1.jpg in Resources */,
+				B0475EE5178B7A4C00D0C606 /* singly-logo.png in Resources */,
+				B0475EE6178B7A4C00D0C606 /* pants1.png in Resources */,
+				B0475EE7178B7A4C00D0C606 /* pants2.png in Resources */,
+				B0475EE8178B7A4C00D0C606 /* shirts_m.png in Resources */,
+				B0475EE9178B7A4C00D0C606 /* shirts_s.png in Resources */,
+				B0475EEA178B7A4C00D0C606 /* shoes1.png in Resources */,
+				B0475EEB178B7A4C00D0C606 /* shoes2.png in Resources */,
+				B0475EEC178B7A4C00D0C606 /* 100px.png in Resources */,
+				B0475EED178B7A4C00D0C606 /* 200px.png in Resources */,
+				B0475EEE178B7A4C00D0C606 /* 300px.png in Resources */,
+				B0475EEF178B7A4C00D0C606 /* 400px.png in Resources */,
+				B0475EF0178B7A4C00D0C606 /* frontpage.jpg in Resources */,
+				B0475EF1178B7A4C00D0C606 /* next.png in Resources */,
+				B0475EF2178B7A4C00D0C606 /* oneclickcheckout.png in Resources */,
+				B0475EF3178B7A4C00D0C606 /* prev.png in Resources */,
+				B0475EF4178B7A4C00D0C606 /* wood_pattern.png in Resources */,
+				B0475EF5178B7A4C00D0C606 /* tumblr.png in Resources */,
+				B0475EF6178B7A4C00D0C606 /* twitter.png in Resources */,
+				B0475EF7178B7A4C00D0C606 /* withings.png in Resources */,
+				B0475EF8178B7A4C00D0C606 /* wordpress.png in Resources */,
+				B0475EF9178B7A4C00D0C606 /* yammer.png in Resources */,
+				B0475EFA178B7A4C00D0C606 /* zeo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
