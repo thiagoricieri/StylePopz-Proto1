@@ -153,7 +153,7 @@
 #pragma mark UITable View
 - (UITableViewCell *) tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     UITableViewCell *cell;
-    NSString *cellIdentifier = @"NewCardCell";
+    NSString *cellIdentifier = @"StylePopzSettingCell";
     cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
     if(cell == nil){
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellIdentifier];
@@ -161,14 +161,34 @@
     [self configureCell: cell forIndexPath:indexPath];
     return cell;
 }
+- (CGFloat) tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return 100.0;
+}
 - (NSInteger) tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return 0;
+    return [[keys objectAtIndex:option] isEqualToString:@"sizes"] ? 6 : [[preferences valueForKey:[keys objectAtIndex:option]] count];
 }
 - (void) tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-    
+    UITableViewCell *cell = [tableView cellForRowAtIndexPath:indexPath];
+    [tableView deselectRowAtIndexPath:indexPath animated:YES];
+    cell.accessoryType = cell.accessoryType == UITableViewCellAccessoryNone ? UITableViewCellAccessoryCheckmark : UITableViewCellAccessoryNone;
 }
 - (void) configureCell: (UITableViewCell *) cell forIndexPath: (NSIndexPath *) indexPath {
-    
+    if(option == SPSettingsOptionSizes){
+        NSArray *akeys = @[@"shirts", @"pants", @"shoes"];
+        int k = indexPath.row < 2 ? 0 : indexPath.row < 4 ? 1 : 2;
+        NSArray *clothe = [[preferences valueForKey:[keys objectAtIndex:option]] valueForKey:[akeys objectAtIndex:k]];
+        NSDictionary *thing = [clothe objectAtIndex:indexPath.row%2];
+        cell.imageView.image = [UIImage imageNamed:[thing valueForKey:@"url"]];
+        cell.textLabel.text = [NSString stringWithFormat:@"%@ %@", [akeys objectAtIndex:k], [thing valueForKey:[akeys objectAtIndex:k]]];
+        cell.accessoryType = [[thing valueForKey:@"selected"] isEqualToString:@"Y"] ? UITableViewCellAccessoryCheckmark : UITableViewCellAccessoryNone;
+    }
+    else {
+        NSArray *akeys = @[@"sex", @"sizes", @"color", @"print", @"luxbrand", @"hibrand", @"fastfash", @"indie"];
+        NSDictionary *thing = [[preferences valueForKey:[keys objectAtIndex:option]] objectAtIndex:indexPath.row];
+        cell.imageView.image = [UIImage imageNamed:[thing valueForKey:@"url"]];
+        cell.textLabel.text = [thing valueForKey:[akeys objectAtIndex:option]];
+        cell.accessoryType = [[thing valueForKey:@"selected"] isEqualToString:@"Y"] ? UITableViewCellAccessoryCheckmark : UITableViewCellAccessoryNone;
+    }
 }
 
 #pragma mark -

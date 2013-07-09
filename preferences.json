@@ -6,22 +6,22 @@
                 {
                     "selected": "Y",
                     "url": "shirts_s.png",
-                    "shirt": "s"
+                    "shirts": "s"
                 },
                 {
                     "selected": "N",
                     "url": "shirts_m.png",
-                    "shirt": "m"
+                    "shirts": "m"
                 }
             ],
             "pants": [
                 {
-                    "pant": "s",
+                    "pants": "s",
                     "selected": "Y",
                     "url": "pants1.png"
                 },
                 {
-                    "pant": "m",
+                    "pants": "m",
                     "selected": "N",
                     "url": "pants2.png"
                 }
