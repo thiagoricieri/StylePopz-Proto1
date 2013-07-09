@@ -10,4 +10,6 @@
 
 @interface StylePopz : NSObject
 
++ (NSDictionary *) JSONWithRawData: (NSData *) rawData;
+
 @end

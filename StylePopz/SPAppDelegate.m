@@ -29,7 +29,7 @@
 
 - (void) changeViewControllerTo:(SPChangeViewControllerTo)changeViewControllerInfo {
     if(changeViewControllerInfo == SPChangeViewControllerToMain){
-        SPSettingsEditViewController *editView = [[SPSettingsEditViewController alloc] initWithNibName:nil bundle:nil];
+        SPSettingsEditViewController *editView = [[SPSettingsEditViewController alloc] initWithOption:SPSettingsOptionSex];
         UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:editView];
         self.window.rootViewController = nav;
     }

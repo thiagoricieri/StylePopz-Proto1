@@ -9,9 +9,15 @@
 #import "definitions.h"
 #import <UIKit/UIKit.h>
 
-@interface SPSettingsEditViewController : UIViewController
+@interface SPSettingsEditViewController : UIViewController <UITableViewDataSource, UITableViewDelegate> {
+    UIButton *male;
+    UIButton *female;
+    NSArray *keys;
+}
 
 @property (nonatomic) SPSettingsOption option;
+@property (nonatomic, strong) UITableView *settingsTable;
+@property (nonatomic, strong) NSDictionary *preferences;
 
 - (id) initWithOption: (SPSettingsOption) settingsOption;
 
